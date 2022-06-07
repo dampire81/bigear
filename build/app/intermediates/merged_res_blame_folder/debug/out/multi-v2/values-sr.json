@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\matteo.basciani\\StudioProjects\\bigear\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sr\\values-sr.xml",
+            "outputFile": "com.example.bigear.app-mergeDebugResources-10:/values-sr/values-sr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\matteo.basciani\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\values-sr\\values-sr.xml",
+                    "source": "C:\\Users\\matteo.basciani\\.gradle\\caches\\transforms-3\\57bdd321bdde57ce1fdcf07bdba1de89\\transformed\\core-1.6.0\\res\\values-sr\\values-sr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

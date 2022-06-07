@@ -6,6 +6,7 @@ import 'package:stomp_dart_client/stomp_frame.dart';
 
 import '../domain/message.dart';
 import 'message_notifier.dart';
+import 'notification_service.dart';
 
 late WidgetRef widgetRef;
 
@@ -28,8 +29,8 @@ class StompRepository  {
 
 void onConnect(StompFrame frame) {
   stompClient.subscribe(
-    destination: '/user/topic/message', //specifico utente
-    // destination: '/topic/news', //broadcast
+    // destination: '/user/topic/message', //specifico utente
+    destination: '/topic/news', //broadcast
     callback: (frame) {
       // Map<String, dynamic> map = json.decode(frame.body!);
       // List<dynamic> data = map["dataKey"];
@@ -38,6 +39,9 @@ void onConnect(StompFrame frame) {
       Message message = Message(id: '1', completed: false, user: '', text: frame.body!, timestamp: '');
 
       widgetRef.read(messageProvider.notifier).addMessage(message);
+
+      widgetRef.read(customNotificationProvider.originProvider).showNotifications('titolo', 'testo');
+
       // List<dynamic>? result = json.decode(frame.body!);
       // print(result);
     },

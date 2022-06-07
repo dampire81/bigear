@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-
-import 'features/authentication/data/message_notifier.dart';
 import 'features/authentication/data/stomp_repository.dart';
 import 'features/authentication/presentation/message_screen.dart';
 
@@ -28,6 +26,4 @@ class MyApp extends ConsumerWidget {
       ),
     );
   }
-
-
 }

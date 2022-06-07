@@ -1,6 +1,8 @@
 <component name="libraryTable">
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
-    <CLASSES />
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../sviluppo/sdk_flutter_versioni/flutter_windows_2.2.3-stable/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-9.6.0" />
+    </CLASSES>
     <JAVADOC />
     <SOURCES />
   </library>
