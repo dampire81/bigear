@@ -50,7 +50,7 @@ void onConnect(StompFrame frame) {
 
 final stompClient = StompClient(
   config: StompConfig.SockJS(
-    url: 'http://10.0.2.2:8080/server-sent-events-spring/websockets',
+    url: 'http://10.0.2.2:8081/monitorapp/websockets',
     // url: 'ws://localhost:8080',
     onConnect: onConnect,
     beforeConnect: () async {

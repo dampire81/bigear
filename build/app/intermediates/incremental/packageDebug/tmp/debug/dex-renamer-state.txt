@@ -1,4 +1,4 @@
-#Tue Jun 07 10:02:47 CEST 2022
+#Wed Nov 02 10:06:27 CET 2022
 base.0=C\:\\Users\\matteo.basciani\\StudioProjects\\bigear\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

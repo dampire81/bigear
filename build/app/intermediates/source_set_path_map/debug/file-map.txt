@@ -1,0 +1,14 @@
+com.example.bigear.app-jetified-annotation-experimental-1.1.0-0 C:\Users\matteo.basciani\.gradle\caches\transforms-3\21d2a332cac1b039cfd7337048ae1658\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.bigear.app-core-1.6.0-1 C:\Users\matteo.basciani\.gradle\caches\transforms-3\57bdd321bdde57ce1fdcf07bdba1de89\transformed\core-1.6.0\res
+com.example.bigear.app-jetified-window-1.0.0-beta04-2 C:\Users\matteo.basciani\.gradle\caches\transforms-3\60ce2f2ffb62c69d0c673ac38088dfd6\transformed\jetified-window-1.0.0-beta04\res
+com.example.bigear.app-media-1.1.0-3 C:\Users\matteo.basciani\.gradle\caches\transforms-3\643c91ad2cd70fc9a87f2635da79dd02\transformed\media-1.1.0\res
+com.example.bigear.app-jetified-window-java-1.0.0-beta04-4 C:\Users\matteo.basciani\.gradle\caches\transforms-3\8ed68306783030c7ca2d79ae532f6c50\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.bigear.app-debug-5 C:\Users\matteo.basciani\StudioProjects\bigear\android\app\src\debug\res
+com.example.bigear.app-main-6 C:\Users\matteo.basciani\StudioProjects\bigear\android\app\src\main\res
+com.example.bigear.app-pngs-7 C:\Users\matteo.basciani\StudioProjects\bigear\build\app\generated\res\pngs\debug
+com.example.bigear.app-resValues-8 C:\Users\matteo.basciani\StudioProjects\bigear\build\app\generated\res\resValues\debug
+com.example.bigear.app-rs-9 C:\Users\matteo.basciani\StudioProjects\bigear\build\app\generated\res\rs\debug
+com.example.bigear.app-mergeDebugResources-10 C:\Users\matteo.basciani\StudioProjects\bigear\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.bigear.app-mergeDebugResources-11 C:\Users\matteo.basciani\StudioProjects\bigear\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.bigear.app-merged_res-12 C:\Users\matteo.basciani\StudioProjects\bigear\build\app\intermediates\merged_res\debug
+com.example.bigear.app-packaged_res-13 C:\Users\matteo.basciani\StudioProjects\bigear\build\flutter_local_notifications\intermediates\packaged_res\debug
